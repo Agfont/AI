@@ -1,0 +1,34 @@
+1)
+Who is the murder?
+We were four people, Michael and Lucas were watching tv, Jhonny was playing soccer and I had a body on my arms.
+
+Output:
+Prediction [small, 60 million parameters]: murder
+
+Prediction [large, 770 million parameters]: Lucas, Michael, Jhonny and me.
+
+2)
+Where does the ground come from?
+In my home the fridge is cold and the plant vase is broken.
+
+Output:
+Prediction [small, 60 million parameters]: in my home
+
+Prediction [large, 770 million parameters]: the fridge is cold
+
+3)
+Who saw the dolphin?
+Me, lucas and bruno went to a water park. Lucas and bruno are blind. Lucas and Bruno are blind.
+
+Output:
+Prediction [small, 60 million parameters]: Bruno
+
+Prediction [large, 770 million parameters]: lucas, bruno and me.
+
+4)
+Input:
+Who is the grandmother of the sister of Lucas? Lucas'mom is Jessica. Lucas have one sister. Jessica's father is Sergio. Sergio's wife is Paula.
+
+Output:
+Prediction [small, 60 million parameters]:
+Prediction [large, 770 million parameters]:
